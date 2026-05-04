@@ -1,0 +1,1 @@
+This application computes the student performance and score visualization
