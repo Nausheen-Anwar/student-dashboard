@@ -1,4 +1,4 @@
 pandas 
 numpy
-matplotlib.pyplot
+matplotlib.pyplot 3.8.4
 streamlit
